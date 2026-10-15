@@ -19,7 +19,7 @@ int main() {
     int n;
     double total = 0;
     int max = 0;
-    printf("Enter the no. of numbers: ");
+    printf("Enter the no. of members: ");
     scanf("%d", &n);
 
     if(n == 0) {
