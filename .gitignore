@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Compiled executables (Windows)
+*.exe
+
+# Debug / build directories
+build/
+bin/
